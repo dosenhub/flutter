@@ -1,0 +1,5 @@
+[book]
+authors = ["Dian Hanifudin Subhi"]
+language = "en"
+src = "src"
+title = "Pemrograman Mobile Flutter"
