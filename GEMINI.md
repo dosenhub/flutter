@@ -45,3 +45,13 @@
 - Buku ditulis dengan menggunakan mdbook
 - Buku menggunakan bahasa Indonesia (formal)
 - Setiap bab, terdiri dari 2 bagian utama yaitu: teori dan praktek.
+- Format struktur untuk setiap materi mengikuti ilustrasi berikut:
+    ```
+    chapter_xx
+    ├── 01_sub_materi.md
+    ├── 02_sub_materi.md
+    ├── 03_sub_materi.md
+    └── README.md
+    ```
+- Pada bagian `README.md` setiap chapter atau bab, berisi pendahuluan sebelum masuk ke materi.
+- Pastikan setiap penulisan bagian menggunakan praktik terbaik (best practices).
