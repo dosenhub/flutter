@@ -30,3 +30,10 @@
 - [Bab 7: Flutter Permissions](./chapter_07/README.md)
     - [Dasar Permissions](./chapter_07/01_dasar_permissions.md)
     - [Implementasi Permissions](./chapter_07/02_implementasi_permissions.md)
+
+- [Bab 8: Mengkonsumsi API (Consume API)](./chapter_08/README.md)
+    - [Konsep: Apa itu API dan bagaimana aplikasi mengkonsumsinya](./chapter_08/01_konsep_consume_api.md)
+    - [HTTP di Dart: async, Future, dan paket `http`](./chapter_08/02_http_request_dart.md)
+    - [Parsing JSON ke Model Dart](./chapter_08/03_parsing_json.md)
+    - [Penanganan Error](./chapter_08/04_error_handling.md)
+    - [Studi Kasus: Aplikasi Sederhana Konsumsi API (Posts)](./chapter_08/05_implementasi_studi_kasus.md)

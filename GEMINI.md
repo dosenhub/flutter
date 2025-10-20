@@ -40,6 +40,11 @@
 07. Flutter Permissions
     - Dasar Flutter Permissions
     - Implementasi Flutter Permissions
+08. Mengkonsumsi REST API
+    - Dasar REST API
+    - Jsonplaceholder sebagai Fake API
+    - Mengkonsumsi dengan library http
+    - Studi kasus jsonplaceholder posts
 
 ## Format
 - Buku ditulis dengan menggunakan mdbook
